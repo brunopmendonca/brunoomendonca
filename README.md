@@ -12,3 +12,7 @@
 - :bulb: Tecnólogo em Sistemas Elétricos
 - 🗼 Técnico em Eletrotécnica 
 
+
+#### Sobre mim
+
+Atuando e estudando no ramo tecnológico a mais de 10 anos, tenho como grandes paixões aprender, trabalhar e desenvolver soluções que possam facilitar o nosso cotidiano, sempre buscando se atualizar no melhor que a tecnologia pode nos oferecer.
