@@ -8,7 +8,7 @@
 
 
 
-###  [<img src="https://img.icons8.com/color/30/000000/linkedin.png">](https://www.linkedin.com/in/brunopmendonca/) Bruno César Mendonça
+###  [<img src="https://img.icons8.com/color/30/000000/linkedin.png">](https://www.linkedin.com/in/brunopmendonca/) Bruno César Piovezan Mendonça
 - 💻 Desenvolvedor Front-End
 - :bulb: Tecnólogo em Sistemas Elétricos
 - 🗼 Técnico em Eletrotécnica 
