@@ -10,7 +10,7 @@
 
 ###  [<img src="https://img.icons8.com/color/30/000000/linkedin.png">](https://www.linkedin.com/in/brunopmendonca/) Bruno César Piovezan Mendonça
 - 👨‍💻 Engenharia de Software
-- 💻 Desenvolvedor Front-End
+- 💻 Desenvolvedor Full Stack
 - :bulb: Tecnólogo em Sistemas Elétricos
 - 🗼 Técnico em Eletrotécnica 
 
